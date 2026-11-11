@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines</artifactId>
+  <artifactId>cs1632-cicd-pipelines-aqm12</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -40,7 +40,6 @@
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
       <url>https://github.com/CS1632-Fall2026/cs-1632-fall-2026-exercise-8-ci-cd-pipelines-aidanmchugh12</url>
-      <artifactId>cs1632-cicd-pipelines-aqm12</artifactId>
     </repository>
   </distributionManagement>
 
